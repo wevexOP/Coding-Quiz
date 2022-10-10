@@ -24,7 +24,7 @@ const quizData = [
         correct: "c",
     },
     {
-        question: "What year was JavaScript launched?",
+        question: "The condition of an if/else statement is enclosed with:",
         a: "Parenthesis",
         b: "Quotes",
         c: "Curly Brackets",
